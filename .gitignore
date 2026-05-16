@@ -19,6 +19,7 @@
 
 # production
 /build
+ava-website-handoff.tar.gz
 
 # misc
 .DS_Store
