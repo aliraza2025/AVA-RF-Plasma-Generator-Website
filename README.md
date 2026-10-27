@@ -1,8 +1,14 @@
 # AVA RF Plasma Generator Website
 
+**Status: Portfolio prototype.**
+
+[Ali Raza’s portfolio and Analogic case study](https://alirazaportfolio2026.netlify.app/)
+
+This deployment demonstrates technical product marketing and website implementation. It is presented as a portfolio prototype, with the launch case documenting my contribution alongside the wider Analogic team.
+
 Premium Next.js marketing website for AVA RF plasma generators, developed from product marketing strategy, AVA brand positioning, datasheets, UI/UX wireframes, and semiconductor RF power collateral.
 
-Live site: https://ava-website-liart.vercel.app
+Portfolio prototype preview: https://ava-website-liart.vercel.app
 
 ## Overview
 
