@@ -2,7 +2,7 @@
 
 **Status: Portfolio prototype.**
 
-[Ali Raza’s portfolio and Analogic case study](https://alirazaportfolio2026.netlify.app/)
+[Ali Raza’s portfolio and Analogic case study](https://alirazaai.page/)
 
 This deployment demonstrates technical product marketing and website implementation. It is presented as a portfolio prototype, with the launch case documenting my contribution alongside the wider Analogic team.
 
